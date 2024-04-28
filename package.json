@@ -1,0 +1,14 @@
+{
+  "name": "sass_project",
+  "version": "1.0.0",
+  "description": "\"Landing page for natours\"",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/styles.css -w"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.75.0"
+  }
+}
